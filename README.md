@@ -28,7 +28,6 @@ It includes sections like:
 If you’d like to collaborate or just say hello, feel free to reach out:
 <br>
 📧 manishkr9341@gmail.com  
-<br>
 🌐 https://www.linkedin.com/in/manish-kumar-70b259335/
 <br>
 
