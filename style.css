@@ -201,11 +201,12 @@ section .title::after{
     background: crimson;
     color: #fff;
     font-size: 25px;
-    padding: 12px 36px;
+    padding: 7px 30px;
+    padding-left: 8px;
     margin-top: 20px;
+    margin-left: 10px;
     font-weight: 400;
     border-radius: 6px;
-    border: 2px solid crimson;
     transition: all 0.3s ease;
 }
 .home .home-content a:hover{
