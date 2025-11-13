@@ -604,7 +604,10 @@ footer span a:hover{
     }
     .home .home-content a{
         font-size: 23px;
-        padding: 10px 30px;
+        /*padding: 10px 30px;*/
+        padding: 12px 31px;
+        margin-left: 10px;
+        padding-left: 13px;
     }
     .max-width{
         max-width: 930px;
